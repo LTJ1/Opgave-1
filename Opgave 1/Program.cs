@@ -20,7 +20,7 @@ namespace Opgave_1
             // Konverter navn til store bogstaver
             StortNavn = Navn.ToUpper();
 
-            // Udskriv navn med store bogstaver 
+            // Udskriv navn med store bogstaver ....
             Console.WriteLine("Velkommen " + StortNavn);
             Console.WriteLine("Tryk en tast for at fortsætte");
             Console.ReadKey();
