@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 1", "Opgave 1\Opgave 1.csproj", "{7AA79C40-A45B-4900-9C01-AA0398A15443}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave01", "Opgave 1\Opgave01.csproj", "{7AA79C40-A45B-4900-9C01-AA0398A15443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave02", "..\Module03\Opgave02.csproj", "{EF316321-7512-4C40-9109-D3C30C3BF3F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7AA79C40-A45B-4900-9C01-AA0398A15443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA79C40-A45B-4900-9C01-AA0398A15443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA79C40-A45B-4900-9C01-AA0398A15443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF316321-7512-4C40-9109-D3C30C3BF3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF316321-7512-4C40-9109-D3C30C3BF3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF316321-7512-4C40-9109-D3C30C3BF3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF316321-7512-4C40-9109-D3C30C3BF3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
