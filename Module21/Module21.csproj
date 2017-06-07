@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F4DF9874-E923-4CB8-A597-40207613277F}</ProjectGuid>
+    <ProjectGuid>{E51DEBC0-FF9E-47A3-860D-C1ADC541B09A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Module18</RootNamespace>
-    <AssemblyName>Module18</AssemblyName>
+    <RootNamespace>Module21</RootNamespace>
+    <AssemblyName>Module21</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
